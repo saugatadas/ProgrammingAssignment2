@@ -1,4 +1,4 @@
-## This solves the wk3 assignment in R programmingPut
+## This solves the wk3 assignment in R programming
 
 ## makeCacheMatrix makes a list of functions for storing/retriving cached matrix inverse
 
